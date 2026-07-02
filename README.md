@@ -103,44 +103,23 @@ I am a passionate software developer with strong interests in **Full Stack Devel
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🏡 InfoLand AI
+### 🏡 InfoLand AI
+AI-powered Property Verification & Real Estate Intelligence Platform using MERN, FastAPI, LangChain, ChromaDB, and geospatial analytics.
 
-AI-powered Property Verification & Risk Assessment Platform built using MERN Stack, FastAPI, LangChain, ChromaDB, and AI-based semantic search.
+### 🧠 Ayurveda–TM2 Retrieval
+Research project investigating Sanskrit-aware Information Retrieval for ontology mapping with 97%+ Top-1 accuracy.
 
-**Tech Stack:** React, Redux Toolkit, Tailwind CSS, Node.js, Express.js, MongoDB, FastAPI, LangChain, ChromaDB
+### 📚 NAMASTE to ICD Retrieval System
+Medical terminology retrieval using Information Retrieval, NLP, and semantic search.
 
----
+### 🏥 ICD-11 Data Crawler
+Python CLI tool to crawl the WHO ICD-11 API and build reusable datasets.
 
-## 📚 NAMASTE to ICD Retrieval System
+### 📊 Telangana EAPCET Cutoff Analyzer
+Automated PDF parsing and analytics pipeline.
 
-Medical Information Retrieval system leveraging semantic search, NLP, dense embeddings, and FastAPI.
-
-**Achievements**
-
-* 97.22% Top-1 Accuracy
-* 99.31% Top-5 Accuracy
-
----
-
-## 📊 Telangana EAPCET Cutoff Analyzer
-
-End-to-end data processing pipeline for extracting, cleaning, analyzing, and visualizing Telangana EAPCET cutoff datasets.
-
----
-
-## 📖 Full Stack BookStore
-
-Complete MERN application with authentication, CRUD operations, search, and responsive UI.
-
----
-
-## 🛡️ Insurance Management Platform
-
-Full-stack insurance management application featuring secure authentication, policy management, and RESTful APIs.
-
----
 
 # 📚 Core Computer Science
 
