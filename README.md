@@ -21,85 +21,25 @@ I am a passionate software developer with strong interests in **Full Stack Devel
 
 ---
 
-# 💻 Technical Skills
+## 💻 Tech Stack
 
-## Programming Languages
+### Languages
+- C, C++, Java, Python, JavaScript, SQL
 
-* C
-* C++
-* Java
-* Python
-* JavaScript (ES6+)
-* SQL
+### Frontend
+- HTML5, CSS3, React, Vite, Redux Toolkit, Tailwind CSS, Bootstrap, React Router, Axios, React Leaflet, Chart.js, Framer Motion
 
-## Frontend
+### Backend
+- Node.js, Express.js, REST APIs, JWT, bcrypt, Multer, CORS, dotenv, Swagger
 
-* HTML5
-* CSS3
-* React.js
-* React Router
-* Redux Toolkit
-* Vite
-* Tailwind CSS
-* Bootstrap
-* Axios
-* Framer Motion
-* React Leaflet
-* Chart.js
+### Databases
+- MongoDB, MongoDB Atlas, Mongoose
 
-## Backend
+### AI / ML
+- FastAPI, LangChain, ChromaDB, RAG, NLP, BM25, TF-IDF, Sentence Transformers, E5, BGE-M3, MPNet, LaBSE
 
-* Node.js
-* Express.js
-* REST APIs
-* JWT Authentication
-* bcrypt
-* Multer
-* CORS
-* dotenv
-* Stripe Integration
-
-## Databases
-
-* MongoDB
-* MongoDB Atlas
-* Mongoose
-
-## AI / Machine Learning
-
-* FastAPI
-* LangChain
-* Retrieval-Augmented Generation (RAG)
-* ChromaDB
-* Natural Language Processing (NLP)
-* Information Retrieval
-* Semantic Search
-* Prompt Engineering
-* BM25
-* TF-IDF
-* Sentence Transformers
-* E5 Embeddings
-* BGE-M3
-* MPNet
-* LaBSE
-
-## Data Science
-
-* NumPy
-* Pandas
-* Data Cleaning
-* Feature Engineering
-* PDF Processing
-* Synthetic Dataset Generation
-
-## Tools & Technologies
-
-* Git
-* GitHub
-* VS Code
-* Postman
-* Linux
-* npm
+### Tools
+- Git, GitHub, VS Code, Linux, Postman, npm
 
 ---
 
