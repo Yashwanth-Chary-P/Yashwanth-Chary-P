@@ -60,6 +60,8 @@ Python CLI tool to crawl the WHO ICD-11 API and build reusable datasets.
 ### 📊 Telangana EAPCET Cutoff Analyzer
 Automated PDF parsing and analytics pipeline.
 
+---
+
 
 # 📚 Core Computer Science
 
