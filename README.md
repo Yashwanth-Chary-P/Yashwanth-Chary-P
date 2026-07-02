@@ -1,249 +1,299 @@
-# Hi 👋, I'm P. Yashwanth Chary
+# 👋 Hi, I'm **P. Yashwanth Chary**
 
-### Computer Science Engineer | AI & Full-Stack Developer | Building Intelligent Software
+### 🚀 Computer Science Engineer | AI & Full-Stack Developer | Building Intelligent Software
 
 ---
 
 # 💫 About Me
 
-🎓 Computer Science undergraduate at **Chaitanya Bharathi Institute of Technology (CBIT)**
+🎓 B.E. Computer Science & Engineering student at **Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad**
 
-🧠 Passionate about **Artificial Intelligence, Information Retrieval, Machine Learning, and Full-Stack Development**
+📊 **CGPA:** **9.24 / 10**
 
-🚀 I enjoy building software that solves real-world problems using **AI, MERN Stack, and Data Engineering**
+💻 Passionate about **Artificial Intelligence, Full Stack Development, Machine Learning, Information Retrieval, and Scalable Software Engineering.**
 
-📚 Constantly improving through **Data Structures & Algorithms, System Design, and Open Source**
+🚀 I enjoy building intelligent software that solves real-world problems using **MERN Stack, FastAPI, LangChain, Vector Databases, and Modern AI Technologies.**
 
-💡 Interested in **AI-powered Search Systems, RAG Applications, Property Intelligence, FinTech, and Scalable Web Platforms**
+🧠 Currently exploring **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Computing.**
 
-🤝 Open to collaborating on impactful software and AI projects
+📚 Strong believer in continuous learning through **Projects, Open Source, and Data Structures & Algorithms.**
+
+🤝 Always open to collaborating on impactful software and AI projects.
 
 ---
 
 # 🚀 Featured Projects
 
-## 🏡 InfoLand AI — Property Intelligence Platform
+## 🏡 InfoLand AI – AI-Powered Property Intelligence Platform
 
-🔗 **Repository:** https://github.com/Yashwanth-Chary-P/InfoLand-AI
-
-An AI-powered property verification and intelligence platform that aggregates ownership history, legal disputes, financial records, tax information, and location insights into a unified dashboard.
+An enterprise-scale property intelligence platform designed to simplify property verification using Artificial Intelligence and Retrieval-Augmented Generation.
 
 ### Highlights
 
-* AI-assisted property verification
-* Retrieval-Augmented Generation (RAG)
-* Semantic Search
-* Interactive GIS Maps
-* Risk Assessment Dashboard
-* Intelligent Property Reports
-* Modern MERN Architecture
-* REST APIs with FastAPI AI services
+- AI-powered Property Verification
+- Intelligent Risk Assessment
+- Semantic Search
+- Retrieval-Augmented Generation (RAG)
+- GIS-based Interactive Maps
+- Property Intelligence Reports
+- Ownership Timeline Analysis
+- Modern MERN Architecture
+- FastAPI AI Services
 
 **Tech Stack**
 
-MongoDB • Express.js • React • Node.js • FastAPI • Python • LangChain • ChromaDB • Redux Toolkit • Tailwind CSS
+`React` `Node.js` `Express.js` `MongoDB` `FastAPI` `Python` `LangChain` `ChromaDB` `Redux Toolkit` `Tailwind CSS`
+
+🔗 Repository:
+**https://github.com/Yashwanth-Chary-P/InfoLand-AI**
 
 ---
 
 ## 🌍 InfoLand Dataset Engine
 
-🔗 **Repository:** https://github.com/Yashwanth-Chary-P/infoland-dataset-engine
-
-Designed and developed a complete synthetic data generation engine capable of producing realistic property intelligence datasets for AI model development and large-scale testing.
+A complete synthetic dataset generation engine capable of creating realistic property intelligence datasets for AI model development and large-scale testing.
 
 ### Features
 
-* GeoJSON preprocessing
-* Property synthesis
-* Ownership generation
-* Legal document generation
-* Tax records
-* Loan datasets
-* Court dispute generation
-* Location scoring
-* Business intelligence datasets
+- GeoJSON Processing
+- Property Synthesis
+- Ownership Generation
+- Loan Dataset Generation
+- Court Case Generation
+- Tax Record Generation
+- Legal Document Generation
+- Location Intelligence
+- Business Dataset Generation
 
 **Tech Stack**
 
-Python • GeoPandas • Pandas • Faker • Shapely • JSON • GIS Processing
+`Python` `GeoPandas` `Pandas` `Faker` `Shapely` `GIS`
+
+🔗 Repository
+
+**https://github.com/Yashwanth-Chary-P/infoland-dataset-engine**
 
 ---
 
 ## 🎓 Telangana EAPCET Cutoff Analyzer
 
-🔗 **Repository:** https://github.com/Yashwanth-Chary-P/eapcet-cutoff-analyzer
-
-An intelligent admission analysis platform that extracts historical Telangana EAPCET counselling PDFs, cleans the data, and generates searchable datasets and reports for students.
+A complete admission analytics platform that automatically extracts historical counselling PDFs and converts them into structured datasets with advanced filtering and reporting.
 
 ### Features
 
-* PDF Extraction
-* Data Cleaning
-* Category-wise Analysis
-* College Ranking
-* Search & Filtering
-* Dataset Generation
-* Report Generation
+- Automated PDF Extraction
+- Data Cleaning
+- College Analysis
+- Category-wise Rankings
+- Search & Filtering
+- Dataset Generation
+- PDF Report Generation
 
 **Tech Stack**
 
-Python • Pandas • pdfplumber • Camelot • ReportLab
+`Python` `Pandas` `pdfplumber` `Camelot` `ReportLab`
+
+🔗 Repository
+
+**https://github.com/Yashwanth-Chary-P/eapcet-cutoff-analyzer**
+
+---
+
+## 📚 NAMASTE to ICD Retrieval System
+
+Research-oriented Information Retrieval system developed for Sanskrit medical terminology mapping with high retrieval accuracy.
+
+### Highlights
+
+- Information Retrieval
+- NLP Pipeline
+- BM25 Ranking
+- Semantic Search
+- Medical Ontology Mapping
+- 97%+ Top-1 Retrieval Accuracy
 
 ---
 
 ## 📚 Full Stack Bookstore
 
-🔗 **Repository:** https://github.com/Yashwanth-Chary-P
-
-A complete online bookstore with authentication, product management, shopping cart, order management, and secure backend APIs.
+A MERN-based online bookstore featuring secure authentication, shopping cart, product management, and order management.
 
 **Tech Stack**
 
-MongoDB • Express.js • React • Node.js
+`MongoDB` `Express.js` `React` `Node.js`
 
 ---
 
 ## 🛡 Insurance Management Platform
 
-🔗 **Repository:** https://github.com/Yashwanth-Chary-P
-
-A full-stack insurance management application for policy administration, customer management, claims processing, and secure user authentication.
+A full-stack insurance management system supporting customer management, policy administration, claims processing, and authentication.
 
 **Tech Stack**
 
-React • Node.js • Express.js • MongoDB
+`React` `Node.js` `Express.js` `MongoDB`
 
 ---
 
-# 💻 Tech Stack
+# 💻 Technical Skills
 
-## Languages
+## Programming Languages
 
-* C++
-* Python
-* JavaScript
-* SQL
-* HTML5
-* CSS3
+- C
+- C++
+- Java
+- Python
+- JavaScript
+- SQL
 
 ---
 
 ## Frontend
 
-* React
-* Redux Toolkit
-* React Router
-* Tailwind CSS
-* Bootstrap
-* Vite
+- HTML5
+- CSS3
+- React
+- Vite
+- Redux Toolkit
+- Tailwind CSS
+- Bootstrap
+- React Router
+- Axios
+- React Leaflet
+- Framer Motion
+- Chart.js
 
 ---
 
 ## Backend
 
-* Node.js
-* Express.js
-* FastAPI
-* REST APIs
-* JWT Authentication
+- Node.js
+- Express.js
+- FastAPI
+- REST APIs
+- JWT Authentication
+- bcrypt
+- Multer
+- Swagger
+- CORS
 
 ---
 
 ## Databases
 
-* MongoDB
-* MySQL
-* ChromaDB
+- MongoDB
+- MongoDB Atlas
+- MySQL
+- ChromaDB
 
 ---
 
-## Artificial Intelligence & Machine Learning
+## Artificial Intelligence
 
-* LangChain
-* Retrieval-Augmented Generation (RAG)
-* Vector Databases
-* Semantic Search
-* Embedding Models
-* Information Retrieval
-* BM25
-* TF-IDF
-* E5 Embeddings
-* BGE Models
+- LangChain
+- Retrieval-Augmented Generation (RAG)
+- Information Retrieval
+- Semantic Search
+- Vector Databases
+- BM25
+- TF-IDF
+- Sentence Transformers
+- E5 Embeddings
+- BGE-M3
+- MPNet
+- LaBSE
 
 ---
 
 ## Tools & Platforms
 
-* Git
-* GitHub
-* VS Code
-* Postman
-* Docker
-* Vercel
-* Render
-* Linux
+- Git
+- GitHub
+- VS Code
+- Linux
+- Docker
+- Postman
+- npm
+- Vercel
+- Render
 
 ---
 
-# 📈 Currently Learning
+# 📚 Core Computer Science
 
-* Large Language Models (LLMs)
-* AI Agents
-* Machine Learning
-* System Design
-* Cloud Computing
-* Scalable Backend Architecture
-
----
-
-# 🌱 Current Focus
-
-* Building AI-powered Software
-* Advanced MERN Applications
-* Search & Recommendation Systems
-* Information Retrieval
-* Real-world Machine Learning Projects
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Operating Systems
+- Computer Networks
+- Software Engineering
+- System Design
 
 ---
 
-# 📫 Connect With Me
+# 🎯 Current Focus
 
-💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+- Artificial Intelligence
+- Machine Learning
+- Large Language Models
+- AI Agents
+- Retrieval-Augmented Generation
+- Full Stack Development
+- Information Retrieval
+- Scalable Backend Systems
 
-📧 Email: YOUR_EMAIL
+---
 
-🌐 Portfolio: Coming Soon
+# 🌱 Currently Learning
+
+- Advanced Machine Learning
+- Distributed Systems
+- Cloud Computing
+- Microservices
+- System Design
+- AI Infrastructure
+
+---
+
+# 🏆 Certifications
+
+- NPTEL – Google Cloud Computing Foundations
+- Google Career Certificate *(In Progress)*
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yashwanth-Chary-P&show_icons=true&theme=tokyonight"/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanth-Chary-P&layout=compact&theme=tokyonight"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwanth-Chary-P&theme=tokyonight"/>
-
 </p>
 
 ---
 
 # 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yashwanth-Chary-P\&theme=tokyonight\&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Yashwanth-Chary-P&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-# ✍️ Developer Quote
+# 📫 Connect With Me
 
-> "The best software isn't built by writing more code—it's built by solving meaningful problems."
+💼 **LinkedIn:** https://www.linkedin.com/in/YOUR-LINKEDIN
+
+📧 **Email:** YOUR_EMAIL
+
+🌐 **Portfolio:** Coming Soon
 
 ---
 
-# ⭐ Always Learning. Always Building. Always Improving.
+# ✨ Developer Quote
+
+> *"The best software isn't built by writing more code—it's built by solving meaningful problems."*
+
+---
+
+# ⭐ Always Learning • Always Building • Always Improving
