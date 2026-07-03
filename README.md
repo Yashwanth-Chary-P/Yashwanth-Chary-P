@@ -278,15 +278,6 @@ A full-stack insurance management system supporting customer management, policy 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Yashwanth-Chary-P&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-
-# 📫 Connect With Me
-
-💼 **LinkedIn:** https://www.linkedin.com/in/YOUR-LINKEDIN
-
-📧 **Email:** YOUR_EMAIL
-
-🌐 **Portfolio:** Coming Soon
 
 ---
 
