@@ -273,13 +273,6 @@ A full-stack insurance management system supporting customer management, policy 
 
 ---
 
-# 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yashwanth-Chary-P&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-
----
-
 # ✨ Developer Quote
 
 > *"The best software isn't built by writing more code—it's built by solving meaningful problems."*
