@@ -254,12 +254,6 @@ A full-stack insurance management system supporting customer management, policy 
 
 ---
 
-# 🏆 Certifications
-
-- NPTEL – Google Cloud Computing Foundations
-
----
-
 # ✨ Developer Quote
 
 > *"The best software isn't built by writing more code—it's built by solving meaningful problems."*
