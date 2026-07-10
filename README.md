@@ -257,7 +257,3 @@ A full-stack insurance management system supporting customer management, policy 
 # ✨ Developer Quote
 
 > *"The best software isn't built by writing more code—it's built by solving meaningful problems."*
-
----
-
-# ⭐ Always Learning • Always Building • Always Improving
