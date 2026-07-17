@@ -243,17 +243,6 @@ A full-stack insurance management system supporting customer management, policy 
 
 ---
 
-# 🌱 Currently Learning
-
-- Advanced Machine Learning
-- Distributed Systems
-- Cloud Computing
-- Microservices
-- System Design
-- AI Infrastructure
-
----
-
 # ✨ Developer Quote
 
 > *"The best software isn't built by writing more code—it's built by solving meaningful problems."*
