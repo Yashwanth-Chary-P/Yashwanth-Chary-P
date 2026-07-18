@@ -218,18 +218,6 @@ A full-stack insurance management system supporting customer management, policy 
 
 ---
 
-# 📚 Core Computer Science
-
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Database Management Systems
-- Operating Systems
-- Computer Networks
-- Software Engineering
-- System Design
-
----
-
 # 🎯 Current Focus
 
 - Artificial Intelligence
