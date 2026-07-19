@@ -218,19 +218,6 @@ A full-stack insurance management system supporting customer management, policy 
 
 ---
 
-# 🎯 Current Focus
-
-- Artificial Intelligence
-- Machine Learning
-- Large Language Models
-- AI Agents
-- Retrieval-Augmented Generation
-- Full Stack Development
-- Information Retrieval
-- Scalable Backend Systems
-
----
-
 # ✨ Developer Quote
 
 > *"The best software isn't built by writing more code—it's built by solving meaningful problems."*
