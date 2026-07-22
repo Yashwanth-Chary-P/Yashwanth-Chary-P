@@ -217,7 +217,6 @@ A full-stack insurance management system supporting customer management, policy 
 - Render
 
 ---
----
 
 # ✨ Developer Quote
 
