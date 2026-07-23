@@ -114,16 +114,6 @@ Research-oriented Information Retrieval system developed for Sanskrit medical te
 
 ---
 
-## 📚 Full Stack Bookstore
-
-A MERN-based online bookstore featuring secure authentication, shopping cart, product management, and order management.
-
-**Tech Stack**
-
-`MongoDB` `Express.js` `React` `Node.js`
-
----
-
 ## 🛡 Insurance Management Platform
 
 A full-stack insurance management system supporting customer management, policy administration, claims processing, and authentication.
