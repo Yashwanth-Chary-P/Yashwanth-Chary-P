@@ -8,7 +8,7 @@
 
 🎓 B.E. Computer Science & Engineering student at **Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad**
 
-📊 **CGPA:** **9.24 / 10**
+📊 **CGPA:** **9.3 / 10**
 
 💻 Passionate about **Artificial Intelligence, Full Stack Development, Machine Learning, Information Retrieval, and Scalable Software Engineering.**
 
