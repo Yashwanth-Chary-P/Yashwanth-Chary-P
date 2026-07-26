@@ -202,7 +202,6 @@ A full-stack insurance management system supporting customer management, policy 
 - Linux
 - Docker
 - Postman
-- npm
 - Vercel
 - Render
 
