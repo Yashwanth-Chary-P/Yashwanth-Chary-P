@@ -1,69 +1,98 @@
 # 👋 Hi, I'm **P. Yashwanth Chary**
 
-### 🚀 Computer Science Engineer | AI & Full-Stack Developer | Building Intelligent Software
+<p align="center">
+  <b>Computer Science Engineer | AI & Full-Stack Developer | Building Intelligent Software</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yashwanth-Chary-P&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
-# 💫 About Me
+## 📊 GitHub Analytics
+
+<table align="center" width="100%">
+<tr>
+<td width="50%">
+<img src="https://github-stats-extended.vercel.app/api?username=Yashwanth-Chary-P&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%" />
+</td>
+<td width="50%">
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Yashwanth-Chary-P&theme=tokyonight&hide_border=true" width="100%" />
+</td>
+</tr>
+</table>
+
+---
+
+## 💫 About Me
 
 🎓 B.E. Computer Science & Engineering student at **Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad**
 
 📊 **CGPA:** **9.30 / 10**
 
-💻 Passionate about **Artificial Intelligence, Full Stack Development, Machine Learning, Information Retrieval, and Scalable Software Engineering.**
+💻 Passionate about **Artificial Intelligence, Full Stack Development, Machine Learning, Information Retrieval, and Scalable Software Engineering**
 
-🚀 I enjoy building intelligent software that solves real-world problems using **MERN Stack, FastAPI, LangChain, Vector Databases, and Modern AI Technologies.**
+🚀 Building intelligent software using **MERN Stack, FastAPI, LangChain, Vector Databases, and Modern AI Technologies**
 
-🧠 Currently exploring **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Computing.**
+🧠 Exploring **LLMs, Retrieval-Augmented Generation (RAG), AI Agents, Cloud Computing, and Distributed Systems**
 
-📚 Strong believer in continuous learning through **Projects, Open Source, and Data Structures & Algorithms.**
+📚 Solved **360+ DSA Problems** and continuously improving problem-solving skills through LeetCode
 
-🤝 Always open to collaborating on impactful software and AI projects.
+🤝 Open to collaborations on impactful AI and Software Engineering projects
 
 ---
 
-# 🚀 Featured Projects
+## 🛠️ Tech Stack
 
-## 🏡 InfoLand AI – AI-Powered Property Intelligence Platform
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,react,nodejs,express,mongodb,mysql,docker,git,github,linux,fastapi,tailwind,redux,postman,vercel&perline=9" />
+</p>
 
-An enterprise-scale property intelligence platform designed to simplify property verification using Artificial Intelligence and Retrieval-Augmented Generation.
+---
 
-### Highlights
+## 🚀 Featured Projects
 
-- AI-powered Property Verification
-- Intelligent Risk Assessment
-- Semantic Search
-- Retrieval-Augmented Generation (RAG)
-- GIS-based Interactive Maps
-- Property Intelligence Reports
-- Ownership Timeline Analysis
-- Modern MERN Architecture
-- FastAPI AI Services
+### 🏡 InfoLand AI – AI-Powered Property Intelligence Platform
+
+Enterprise-scale property intelligence platform leveraging Artificial Intelligence and Retrieval-Augmented Generation.
+
+#### Highlights
+
+* AI-powered Property Verification
+* Intelligent Risk Assessment
+* Semantic Search
+* Retrieval-Augmented Generation (RAG)
+* GIS-based Interactive Maps
+* Property Intelligence Reports
+* Ownership Timeline Analysis
+* FastAPI AI Services
+* Modern MERN Architecture
 
 **Tech Stack**
 
 `React` `Node.js` `Express.js` `MongoDB` `FastAPI` `Python` `LangChain` `ChromaDB` `Redux Toolkit` `Tailwind CSS`
 
-🔗 Repository:
-**https://github.com/Yashwanth-Chary-P/InfoLand-AI**
+🔗 Repository
+
+https://github.com/Yashwanth-Chary-P/InfoLand-AI
 
 ---
 
-## 🌍 InfoLand Dataset Engine
+### 🌍 InfoLand Dataset Engine
 
-A complete synthetic dataset generation engine capable of creating realistic property intelligence datasets for AI model development and large-scale testing.
+Synthetic dataset generation engine capable of producing realistic property intelligence datasets for AI development and large-scale testing.
 
-### Features
+#### Features
 
-- GeoJSON Processing
-- Property Synthesis
-- Ownership Generation
-- Loan Dataset Generation
-- Court Case Generation
-- Tax Record Generation
-- Legal Document Generation
-- Location Intelligence
-- Business Dataset Generation
+* GeoJSON Processing
+* Property Synthesis
+* Ownership Generation
+* Loan Dataset Generation
+* Court Case Generation
+* Tax Record Generation
+* Legal Document Generation
+* Location Intelligence
 
 **Tech Stack**
 
@@ -71,23 +100,23 @@ A complete synthetic dataset generation engine capable of creating realistic pro
 
 🔗 Repository
 
-**https://github.com/Yashwanth-Chary-P/infoland-dataset-engine**
+https://github.com/Yashwanth-Chary-P/infoland-dataset-engine
 
 ---
 
-## 🎓 Telangana EAPCET Cutoff Analyzer
+### 🎓 Telangana EAPCET Cutoff Analyzer
 
-A complete admission analytics platform that automatically extracts historical counselling PDFs and converts them into structured datasets with advanced filtering and reporting.
+Admission analytics platform that automatically extracts counselling PDFs and converts them into structured datasets.
 
-### Features
+#### Features
 
-- Automated PDF Extraction
-- Data Cleaning
-- College Analysis
-- Category-wise Rankings
-- Search & Filtering
-- Dataset Generation
-- PDF Report Generation
+* Automated PDF Extraction
+* Data Cleaning
+* College Analysis
+* Category-wise Rankings
+* Search & Filtering
+* Dataset Generation
+* PDF Report Generation
 
 **Tech Stack**
 
@@ -95,118 +124,71 @@ A complete admission analytics platform that automatically extracts historical c
 
 🔗 Repository
 
-**https://github.com/Yashwanth-Chary-P/eapcet-cutoff-analyzer**
+https://github.com/Yashwanth-Chary-P/eapcet-cutoff-analyzer
 
 ---
 
-## 📚 NAMASTE to ICD Retrieval System
+### 📚 NAMASTE to ICD Retrieval System
 
-Research-oriented Information Retrieval system developed for Sanskrit medical terminology mapping with high retrieval accuracy.
+Research-oriented Information Retrieval system for Sanskrit medical terminology mapping.
 
-### Highlights
+#### Highlights
 
-- Information Retrieval
-- NLP Pipeline
-- BM25 Ranking
-- Semantic Search
-- Medical Ontology Mapping
-- 97%+ Top-1 Retrieval Accuracy
-
----
-
-## 🛡 Insurance Management Platform
-
-A full-stack insurance management system supporting customer management, policy administration, claims processing, and authentication.
-
-**Tech Stack**
-
-`React` `Node.js` `Express.js` `MongoDB`
+* Information Retrieval
+* NLP Pipeline
+* BM25 Ranking
+* Semantic Search
+* Medical Ontology Mapping
+* 97.22% Top-1 Accuracy
+* 99.31% Top-5 Accuracy
 
 ---
 
-# 💻 Technical Skills
+## 📈 Contribution Activity
 
-## Programming Languages
-
-- C
-- C++
-- Java
-- Python
-- JavaScript
-- SQL
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashwanth-Chary-P&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</p>
 
 ---
 
-## Frontend
+## 📊 GitHub Summary
 
-- HTML5
-- CSS3
-- React
-- Vite
-- Redux Toolkit
-- Tailwind CSS
-- Bootstrap
-- React Router
-- Axios
-- React Leaflet
-- Framer Motion
-- Chart.js
+<table align="center">
+<tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yashwanth-Chary-P&theme=tokyonight" />
+</td>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yashwanth-Chary-P&theme=tokyonight" />
+</td>
+</tr>
+</table>
 
 ---
 
-## Backend
+## 🏆 Achievements
 
-- Node.js
-- Express.js
-- FastAPI
-- REST APIs
-- JWT Authentication
-- bcrypt
-- Multer
-- Swagger
-- CORS
+* 🥇 Selected for Smart India Hackathon (Internal Round)
+* 🏆 Shortlisted for National-Level Hackathons including Adobe Hackathon and CMR Hackathon
+* 📚 Solved 360+ DSA Problems
+* ⭐ Active contributor to AI and Full-Stack Development Projects
+* 🎯 Building enterprise-scale AI-powered software systems
 
 ---
 
-## Databases
+## 💻 Current Focus
 
-- MongoDB
-- MongoDB Atlas
-- MySQL
-- ChromaDB
-
----
-
-## Artificial Intelligence
-
-- LangChain
-- Retrieval-Augmented Generation (RAG)
-- Information Retrieval
-- Semantic Search
-- Vector Databases
-- BM25
-- TF-IDF
-- Sentence Transformers
-- E5 Embeddings
-- BGE-M3
-- MPNet
-- LaBSE
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* AI Agents
+* Information Retrieval Systems
+* Distributed Systems
+* Cloud Computing
+* System Design
 
 ---
 
-## Tools & Platforms
-
-- Git
-- GitHub
-- VS Code
-- Linux
-- Docker
-- Postman
-- Vercel
-- Render
-
----
-
-# ✨ Developer Quote
+## ✨ Developer Quote
 
 > *"The best software isn't built by writing more code—it's built by solving meaningful problems."*
