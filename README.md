@@ -126,7 +126,19 @@ Research-oriented Information Retrieval System for mapping Sanskrit medical term
 
 ## 🌐 Connect With Me
 
-[GitHub](https://github.com/Yashwanth-Chary-P) • LinkedIn • Email
+<p align="left">
+  <a href="https://github.com/Yashwanth-Chary-P" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/yashwanth-poloju-chary-7669382b4/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:p.yashwanthchary@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
