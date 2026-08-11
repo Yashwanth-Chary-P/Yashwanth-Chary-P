@@ -24,11 +24,28 @@
 
 ## 🛠️ Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,react,nodejs,express,mongodb,mysql,fastapi,docker,git,github,linux,tailwind,redux,postman,vercel&perline=9" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,py,js,html,css,react,redux,tailwind,bootstrap,nodejs,express,fastapi&perline=12" />
 </p>
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,git,github,linux,postman&perline=12" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-2563EB?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Information%20Retrieval-0891B2?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Semantic%20Search-0E7490?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transformer%20Embeddings-7C3AED?style=for-the-badge&logoColor=white" />
+</p>
 
 ## 📊 GitHub Analytics
 
