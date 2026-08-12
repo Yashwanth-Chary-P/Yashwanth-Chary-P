@@ -17,7 +17,7 @@
 - 🚀 Passionate about **Artificial Intelligence, Full-Stack Development, Information Retrieval, and Scalable Software Engineering**
 - 💻 Building intelligent software using **MERN Stack, FastAPI, LangChain, Vector Databases, and Modern AI Technologies**
 - 🧠 Exploring **LLMs, RAG, AI Agents, Cloud Computing, and Distributed Systems**
-- 📚 Solved **360+ DSA Problems**
+- 📚 Solved **550+ DSA Problems**
 - 🤝 Open to collaborating on impactful AI and Software Engineering projects
 
 ---
