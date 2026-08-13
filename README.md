@@ -13,7 +13,7 @@
 ## 💫 About Me
 
 - 🎓 Computer Science & Engineering student at **Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad**
-- 📊 **CGPA: 9.30 / 10**
+- 📊 **CGPA: 9.3 / 10**
 - 🚀 Passionate about **Artificial Intelligence, Full-Stack Development, Information Retrieval, and Scalable Software Engineering**
 - 💻 Building intelligent software using **MERN Stack, FastAPI, LangChain, Vector Databases, and Modern AI Technologies**
 - 🧠 Exploring **LLMs, RAG, AI Agents, Cloud Computing, and Distributed Systems**
