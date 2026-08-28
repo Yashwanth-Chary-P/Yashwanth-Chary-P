@@ -4,7 +4,7 @@
 
 ### 🚀 AI & Full-Stack Developer | Computer Science Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Intelligent+Software;AI+%26+Full-Stack+Developer;MERN+Stack+%7C+FastAPI+%7C+RAG;Exploring+LLMs+and+AI+Agents;570%2B+DSA+Problems+Solved" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Intelligent+Software;AI+%26+Full-Stack+Developer;MERN+Stack+%7C+FastAPI+%7C+RAG;Exploring+LLMs+and+AI+Agents;600%2B+DSA+Problems+Solved" alt="Typing SVG" />
 
 </div>
 
@@ -107,7 +107,7 @@ Research-oriented Information Retrieval System for mapping Sanskrit medical term
 - 🥇 Smart India Hackathon Internal Hackathon
 - 🏆 Adobe Hackathon Shortlisted
 - 🏆 CMR Hackathon Shortlisted
-- 📚 360+ DSA Problems Solved
+- 📚 600+ DSA Problems Solved
 - ⭐ Built enterprise-scale AI applications
 
 ---
