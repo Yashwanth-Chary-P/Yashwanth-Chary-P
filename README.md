@@ -12,13 +12,13 @@
 
 ## 💫 About Me
 
-- 🎓 Computer Science & Engineering student at **Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad**
-- 📊 **CGPA: 9.30 / 10**
-- 🚀 Passionate about **Artificial Intelligence, Full-Stack Development, Information Retrieval, and Scalable Software Engineering**
-- 💻 Building intelligent software using **MERN Stack, FastAPI, LangChain, Vector Databases, and Modern AI Technologies**
-- 🧠 Exploring **LLMs, RAG, AI Agents, Cloud Computing, and Distributed Systems**
-- 📚 Solved **600+ DSA Problems**
-- 🤝 Open to collaborating on impactful AI and Software Engineering projects
+* 🎓 Computer Science & Engineering student at **Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad**
+* 📊 **CGPA: 9.30 / 10**
+* 🤖 AI & Full-Stack Developer passionate about building intelligent, scalable software systems
+* 🚀 Experienced in **MERN Stack, FastAPI, Retrieval-Augmented Generation (RAG), NLP, and Information Retrieval**
+* 🔬 Currently working on **NAMASTE ↔ ICD-11**, a research-oriented medical terminology mapping system
+* 📚 Solved **600+ DSA Problems**
+* 🤝 Open to Software Engineering, AI Engineering, and Research opportunities
 
 ---
 
@@ -46,6 +46,8 @@
   <img src="https://img.shields.io/badge/Semantic%20Search-0E7490?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Transformer%20Embeddings-7C3AED?style=for-the-badge&logoColor=white" />
 </p>
+
+---
 
 ## 📊 GitHub Analytics
 
@@ -86,32 +88,35 @@
 
 ### 🏡 InfoLand AI
 
-AI-Powered Property Intelligence Platform leveraging **Retrieval-Augmented Generation (RAG), LangChain, FastAPI, ChromaDB, and MERN Stack**.
+AI-powered property intelligence platform that combines Retrieval-Augmented Generation (RAG), LangChain, FastAPI, ChromaDB, and the MERN stack to deliver intelligent property search, analysis, and recommendations.
 
-**Tech Stack**
+**Core Technologies**
 
 `React` `Node.js` `Express.js` `MongoDB` `FastAPI` `Python` `LangChain` `ChromaDB`
 
-### 📚 NAMASTE-2-ICD Retrieval System
+---
 
-Research-oriented Information Retrieval System for mapping Sanskrit medical terminology to ICD codes.
+### 📚 NAMASTE ↔ ICD-11 Mapping System
 
-**Highlights**
+Research-driven Information Retrieval and NLP system that maps traditional AYUSH and Sanskrit medical terminology to ICD-11 codes using BM25, semantic search, transformer embeddings, and ranking pipelines.
 
-- 🎯 97.22% Top-1 Accuracy
-- 🎯 99.31% Top-5 Accuracy
-- 🔍 BM25 + Semantic Search
-- 🧠 NLP & Information Retrieval
+**Research Results**
+
+* 🎯 97.22% Top-1 Accuracy
+* 🎯 99.31% Top-5 Accuracy
+* 🔍 BM25 + Semantic Retrieval
+* 🧠 NLP & Information Retrieval
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 Smart India Hackathon Internal Hackathon
-- 🏆 Adobe Hackathon Shortlisted
-- 🏆 CMR Hackathon Shortlisted
-- 📚 600+ DSA Problems Solved
-- ⭐ Built enterprise-scale AI applications
+* 🥇 Winner – Smart India Hackathon Internal Selection Round
+* 🏆 Adobe India Hackathon – Shortlisted
+* 🏆 CMR Hackathon – Shortlisted
+* 📚 Solved 600+ DSA Problems across LeetCode, Coding Ninjas, and other platforms
+* 🔬 Developed research-grade Information Retrieval systems achieving 97.22% Top-1 Accuracy
+* ⭐ Built end-to-end AI-powered applications using MERN, FastAPI, LangChain, and Vector Databases
 
 ---
 
