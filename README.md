@@ -72,10 +72,13 @@
 
 ## 📈 Contribution Activity
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Yashwanth-Chary-P&theme=tokyo-night&hide_border=true&area=true"
-width="100%"
-/>
+<p align="center">
+  <img
+    alt="GitHub Activity Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=github&theme=github-compact&hide_border=true&area=true"
+    width="100%"
+  />
+</p>
 
 ---
 
