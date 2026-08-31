@@ -115,18 +115,6 @@ Research-oriented Information Retrieval System for mapping Sanskrit medical term
 
 ---
 
-## 🎯 Current Focus
-
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- Information Retrieval Systems
-- Distributed Systems
-- Cloud Computing
-- System Design
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
