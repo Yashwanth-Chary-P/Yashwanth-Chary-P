@@ -111,12 +111,12 @@ Research-driven Information Retrieval and NLP system that maps traditional AYUSH
 
 ## 🏆 Achievements
 
-* 🥇 Winner – Smart India Hackathon Internal Selection Round
-* 🏆 Adobe India Hackathon – Shortlisted
-* 🏆 CMR Hackathon – Shortlisted
-* 📚 Solved 600+ DSA Problems across LeetCode, Coding Ninjas, and other platforms
-* 🔬 Developed research-grade Information Retrieval systems achieving 97.22% Top-1 Accuracy
-* ⭐ Built end-to-end AI-powered applications using MERN, FastAPI, LangChain, and Vector Databases
+* 🥇 Winner – Smart India Hackathon Internal Selection Round.
+* 🏆 Adobe India Hackathon – Shortlisted.
+* 🏆 CMR Hackathon – Shortlisted.
+* 📚 Solved 600+ DSA Problems across LeetCode, Coding Ninjas, and other platforms.
+* 🔬 Developed research-grade Information Retrieval systems achieving 97.22% Top-1 Accuracy.
+* ⭐ Built end-to-end AI-powered applications using MERN, FastAPI, LangChain, and Vector Databases.
 
 ---
 
