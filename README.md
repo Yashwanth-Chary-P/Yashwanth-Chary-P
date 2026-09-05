@@ -18,7 +18,7 @@
 * 🚀 Experienced in **MERN Stack, FastAPI, Retrieval-Augmented Generation (RAG), NLP, and Information Retrieval**
 * 🔬 Currently working on **NAMASTE ↔ ICD-11**, a research-oriented medical terminology mapping system
 * 📚 Solved **600+ DSA Problems**
-* 🤝 Open to Software Engineering, AI Engineering, and Research opportunities
+* 🤝 Open to Software Engineering, AI Engineering, and Research opportunities.
 
 ---
 
