@@ -4,7 +4,7 @@
 
 ### 🚀 AI & Full-Stack Developer | Computer Science Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Intelligent+Software;AI+%26+Full-Stack+Developer;MERN+Stack+%7C+FastAPI+%7C+RAG;Exploring+LLMs+and+AI+Agents;600%2B+DSA+Problems+Solved" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Intelligent+Software;AI+%26+Full-Stack+Developer;MERN+Stack+%7C+FastAPI+%7C+RAG;Exploring+LLMs+and+AI+Agents;610%2B+DSA+Problems+Solved" alt="Typing SVG" />
 
 </div>
 
@@ -17,7 +17,7 @@
 * 🤖 AI & Full-Stack Developer passionate about building intelligent, scalable software systems
 * 🚀 Experienced in **MERN Stack, FastAPI, Retrieval-Augmented Generation (RAG), NLP, and Information Retrieval**
 * 🔬 Currently working on **NAMASTE ↔ ICD-11**, a research-oriented medical terminology mapping system
-* 📚 Solved **600+ DSA Problems**
+* 📚 Solved **610+ DSA Problems**
 * 🤝 Open to Software Engineering, AI Engineering, and Research opportunities.
 
 ---
@@ -114,7 +114,7 @@ Research-driven Information Retrieval and NLP system that maps traditional AYUSH
 * 🥇 Winner – Smart India Hackathon Internal Selection Round.
 * 🏆 Adobe India Hackathon – Shortlisted.
 * 🏆 CMR Hackathon – Shortlisted.
-* 📚 Solved 600+ DSA Problems across LeetCode, Coding Ninjas, and other platforms.
+* 📚 Solved 610+ DSA Problems across LeetCode, Coding Ninjas, and other platforms.
 * 🔬 Developed research-grade Information Retrieval systems achieving 97.22% Top-1 Accuracy.
 * ⭐ Built end-to-end AI-powered applications using MERN, FastAPI, LangChain, and Vector Databases.
 
