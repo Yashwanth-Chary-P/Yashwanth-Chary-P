@@ -76,7 +76,7 @@
 
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=Yashwanth-Chary-P&include_all_commits=true&theme=transparent"
+    src="https://github-stats-extended.vercel.app/api?username=Yashwanth-Chary-P&include_all_commits=true&theme=transparent&rank_icon=percentile"
     width="450"
   />
 </p>
