@@ -76,9 +76,8 @@
 
 <p align="center">
   <img
-    alt="GitHub Activity Graph"
     src="https://github-stats-extended.vercel.app/api?username=Yashwanth-Chary-P&include_all_commits=true&theme=transparent"
-    width="100%"
+    width="450"
   />
 </p>
 
