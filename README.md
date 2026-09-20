@@ -77,7 +77,7 @@
 <p align="center">
   <img
     alt="GitHub Activity Graph"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=github&theme=github-compact&hide_border=true&area=true"
+    src="https://github-stats-extended.vercel.app/api?username=Yashwanth-Chary-P&include_all_commits=true&theme=transparent"
     width="100%"
   />
 </p>
